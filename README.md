@@ -1,4 +1,4 @@
-# Alarm_System_Arduino
+# Alarm-System-Arduino
 
 Code 31 Alarm is activated,with code 4 alarm is deactivated
 
